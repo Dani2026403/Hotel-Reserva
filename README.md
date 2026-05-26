@@ -171,3 +171,5 @@ Habitaciones dinámicas.
 Botones de reserva.
 Cambio de disponibilidad automáticamente.
 
+Link Mockup en Figma: https://sage-sift-37537842.figma.site/
+
