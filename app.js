@@ -1,12 +1,3 @@
-/* ==========================================================
-   HOTEL LUXURY PRO
-   Archivo: assets/js/app.js
-
-   Funciona abriendo index.html directamente en el navegador.
-   Registro, login, perfil, reservas y favoritos se guardan
-   en localStorage. Es una simulación frontend.
-   ========================================================== */
-
 const habitaciones = [
   {
     id: 1,
